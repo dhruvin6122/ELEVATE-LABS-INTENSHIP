@@ -35,7 +35,7 @@ Each folder corresponds to one day of the internship and contains:
 
 ## Author
 
-[Your Name]  
+[Patel Dhruvin Divyakant]  
 AI & ML Intern at Elevate Labs  
-GitHub: [your-username]
+
 
